@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+ios/build/
+android/.gradle/
+android/app/build/
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/res/drawable-*
+*.iml
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
+.env.*.local
